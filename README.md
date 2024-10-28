@@ -4,7 +4,6 @@ Este repositorio contiene notebooks de Jupyter para la ejecución y desarrollo d
 
 ## Estructura del repositorio
 
-- `notebooks/`: Contiene los notebooks de Jupyter con diferentes modelos y experimentos de machine learning.
 - `datasets/`: Carpeta en la raíz del repositorio donde se almacenan los datasets. Estos archivos deben cargarse en Google Colab para su uso.
 
 ## Instrucciones para usar en Google Colab
@@ -12,10 +11,7 @@ Este repositorio contiene notebooks de Jupyter para la ejecución y desarrollo d
 1. Abre el notebook en Google Colab haciendo clic en el enlace correspondiente o subiendo el archivo.
 2. Monta el repositorio de GitHub en Google Colab para acceder a los datasets. Puedes hacer esto ejecutando el siguiente código en una celda:
 
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
-   
+   ```python 
    # Clona el repositorio en Google Colab
    !git clone https://github.com/Dpretel/machine-learning
 
