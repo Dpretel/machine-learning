@@ -15,6 +15,15 @@ Este repositorio contiene notebooks de Jupyter para la ejecución y desarrollo d
    # Clona el repositorio en Google Colab
    !git clone https://github.com/Dpretel/machine-learning
 
+
+## Regresión lineal
+
+![resultado-regresión-lineal](image.png)
+
+## Regresión Logistica
+
+![matriz-confucion](image-1.png)
+
 ---
 
 Created by Daniela Pretel - Monday 28
