@@ -24,6 +24,10 @@ Este repositorio contiene notebooks de Jupyter para la ejecución y desarrollo d
 
 ![matriz-confucion](image-1.png)
 
+## Árbol de decisión
+
+![arbol-decision](image-2.png)
+
 ---
 
 Created by Daniela Pretel - Monday 28
